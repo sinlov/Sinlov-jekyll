@@ -17,7 +17,7 @@ title: sinlov git jekyll blog
 email: sinlovgmppt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Nothing is a line of code can not be resolved, if have just use two lines on
-baseurl: "/jekyll/blog" # the subpath of your site, e.g. /blog
+baseurl: "/Sinlov-jekyll" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sinlov
 github_username:  sinlov
